@@ -1,0 +1,14 @@
+timeout = "1200s"
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'The Exposure'
+disableKinds = ["section", "taxonomy", "term", "home"]
+enableRobotsTXT = true
+
+[module]
+    [[module.imports]]
+    path = "github.com/Sped0n/bridget/v2"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
