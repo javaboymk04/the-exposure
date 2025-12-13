@@ -1,5 +1,5 @@
 timeout = "1200s"
-baseURL = 'https://example.org/'
+baseURL = 'https://the-exposure.alif4chan.workers.dev/'
 languageCode = 'en-us'
 title = 'The Exposure'
 disableKinds = ["section", "taxonomy", "term", "home"]

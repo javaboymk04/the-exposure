@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.org/about/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/medfor/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/pns/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://the-exposure.alif4chan.workers.dev/about/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://the-exposure.alif4chan.workers.dev/medfor/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://the-exposure.alif4chan.workers.dev/pns/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://the-exposure.alif4chan.workers.dev/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
