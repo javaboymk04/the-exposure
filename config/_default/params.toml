@@ -1,7 +1,7 @@
 # --- REQUIRED -----------------------------------------------------------------
 
 # description of the site (will be placed in meta)
-description = "Bridget is a minimal Hugo theme designed for photographers/visual artists."
+description = "The Exposure is M. Alif Farchan's personal film photography portfolio"
 
 # resize options for dynamic resolution, please refer to https://gohugo.io/content-management/image-processing/#image-processing-options
 loResOpt = "800x webp Lanczos q60"
