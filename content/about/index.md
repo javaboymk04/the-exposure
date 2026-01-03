@@ -20,7 +20,17 @@ Is M. Alif Farchan's personal film photography portfolio. Currently I have no pl
 
 Should you have any business inquiries, I'm reachable through <u>[alif4chan@gmail.com](mailto:alif4chan@gmail.com)</u>
 
-<u>[Lomography](https://www.lomography.com/homes/javaboymk03)</u> <u>[Instagram](https://www.instagram.com/javaboymk03/) <u>[Personal blog](https://thegraindance.alif4chan.workers.dev/)
+SLR: Pentax MX
+
+P&S: Fuji DL-25 Date
+
+Medfor: Seagull 4A (currently under maintenance)
+
+<u>[Lomography](https://www.lomography.com/homes/javaboymk03)</u>
+
+<u>[Instagram](https://www.instagram.com/javaboymk03/)
+
+<u>[Personal blog](https://thegraindance.alif4chan.workers.dev/)
 
 
 Original site design by <u>[Tyler McRobert](https://tylermcrobert.com)</u>.
